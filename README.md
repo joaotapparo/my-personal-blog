@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://i.imgur.com/T1xCI92.png" height='300'/>
+  <img src="https://i.imgur.com/k8NZbib.png" height='300'/>
 </p>
 
-# ✍️ [Project name]
-> [Project description]
+# 😄 My Personal Blog
+> A blog created with the intention of publicizing my projects through publications in markdown, having an appearance of a GNU Bash
 
 ## 🎯 Objective
 
