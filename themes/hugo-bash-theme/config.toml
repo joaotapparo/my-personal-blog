@@ -1,0 +1,56 @@
+[Params]
+
+  # Status da barra de navegacao ↓
+  [Params.Navbar]
+  use = true
+  
+  # Extensoes ↓
+  [Params.Extensions]
+  use = true
+  ext = ".txt"    
+
+ 
+  # Tema do terminal ↓
+  [Params.Terminal]
+  scheme = "Nord"
+
+  # Nomenclatura ↓
+  userName = "johnnyhall"
+  pcName = "pop-os"
+  workDir = "mydir"
+  profile = "profile.txt"
+
+
+  # Velocidade dos comandos ↓
+  ps1Delay = 0 
+  stdoutDelay = 0 
+  commandDelay = 50
+
+
+  # Decricao ↓
+  description = """
+  I'm 18 years old and I'm a full-stack developer with
+  a focus on the backend.
+  I have always liked computing and I intend to continue
+  following my career in the area, currently I have a 
+  technical training in computing and I am studying 
+  computer engineering.
+  I've studied a lot outside of school, taking online
+  courses, watching video classes and even creating
+  applications that would be useful for my day to day 
+  or even just for fun.
+  """
+
+  # Parametros do comando Tree ↓
+  [Params.Tree]
+  use = true
+  folderName = "my_activity"
+  files = [ 
+    ["posts", "/posts"],
+    ["projects", "/projects"],
+  ]
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.85.0"
