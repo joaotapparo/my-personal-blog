@@ -5,18 +5,8 @@
 # 😄 My Personal Blog
 > A blog created with the intention of publicizing my projects through publications in markdown, having an appearance of a GNU Bash
 
-## 🎯 Objective
-
 ## 📜 Requiremednts
-1. [Requiremednt]
-2. [Requiremednt]
-
-## ⚙️ Installation
-
-```
-
-
-```
+1. Hugo v0.101.0 extended version
 
 ## 📝 Features & Commands
 
@@ -38,10 +28,6 @@ Currently available locales are:
 3. Stage changes `git add .`
 4. Commit your changes: `cz` OR use `git commit`
 5. Submit a pull request
-
-## 🖌️ Themes
-
-## 🤝 Related Projects
 
 ## 👤 Developers
  - João Victor Rokemback Tápparo
