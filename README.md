@@ -8,6 +8,9 @@
 ## 📜 Requiremednts
 1. Hugo v0.101.0 extended version
 
+## 🖼️ Example video
+https://user-images.githubusercontent.com/51871292/177400465-c9047518-c08b-4471-809b-c8e18c352d6c.mp4
+
 ## 👤 Developers
  - João Victor Rokemback Tápparo
 
