@@ -37,7 +37,4 @@ hugo-bash-theme supports any theme available on [Gogh](https://gogh-co.github.io
 ## 👤 Developers
  - João Victor Rokemback Tápparo
 
-<p align="center">
-  Created on <br>
-  08/08/2020
-</p>
+##### [Repository link](https://github.com/JohnnyHall/hugo-bash-theme)

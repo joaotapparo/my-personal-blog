@@ -13,7 +13,4 @@ draft: true
 ## 👤 Developers
  - João Victor Rokemback Tápparo
 
-<p align="center">
-  Created on <br>
-  09/12/2021
-</p>
+##### [Repository link](https://github.com/JohnnyHall/latte-dock-kde)

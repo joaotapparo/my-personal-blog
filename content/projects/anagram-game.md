@@ -27,7 +27,4 @@ Currently available locales are:
 - Giovana Salazar Alarcon        
 - João Victor Rokemback Tápparo
 
-<p align="center">
-  Created on <br>
-  03/06/2022
-</p>
+##### [Repository link](https://github.com/JohnnyHall/anagram-game)

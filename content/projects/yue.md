@@ -92,9 +92,4 @@ Currently available locales are:
 ## 👤 Developers
  - João Victor Rokemback Tápparo
 
-<p align="center">
-  Created on <br>
-  08/08/2020
-</p>
-
 ###### [Repository link](https://github.com/JohnnyHall/yue/)
