@@ -5,7 +5,7 @@
 # 😄 My Personal Blog
 > A blog created with the intention of publicizing my projects through publications in markdown, having an appearance of a GNU Bash
 
-## 📜 Requiremednts
+## 📜 Requirements
 1. Hugo v0.101.0 extended version
 
 ## 🖼️ Example video
